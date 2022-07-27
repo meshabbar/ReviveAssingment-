@@ -1,0 +1,8 @@
+2022-07-26 16:13:30,799  automation.py  INFO: Start File Process
+2022-07-26 16:13:30,800  automation.py  INFO: This file does not exist order_prices.csv
+2022-07-26 16:13:32,461  automation.py  INFO: Successfully created the file  order_prices.csv
+2022-07-26 16:13:32,461  automation.py  INFO: This file does not exist product_customers.csv
+2022-07-26 16:13:32,536  automation.py  INFO: Successfully created the file  product_customers.csv
+2022-07-26 16:13:32,536  automation.py  INFO: This file does not exist customer_ranking.csv
+2022-07-26 16:13:34,803  automation.py  INFO: Successfully created the file  customer_ranking.csv
+2022-07-26 16:13:34,804  automation.py  INFO: End File Process

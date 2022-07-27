@@ -1,0 +1,11 @@
+2022-07-26 16:14:43,893  automation.py  INFO: Start File Process
+2022-07-26 16:14:43,893  automation.py  INFO: Try to remove order_prices.csv
+2022-07-26 16:14:43,895  automation.py  INFO: Removed order_prices.csv
+2022-07-26 16:14:44,874  automation.py  INFO: Successfully created the file  order_prices.csv
+2022-07-26 16:14:44,874  automation.py  INFO: Try to remove product_customers.csv
+2022-07-26 16:14:44,875  automation.py  INFO: Removed product_customers.csv
+2022-07-26 16:14:44,937  automation.py  INFO: Successfully created the file  product_customers.csv
+2022-07-26 16:14:44,937  automation.py  INFO: Try to remove customer_ranking.csv
+2022-07-26 16:14:44,938  automation.py  INFO: Removed customer_ranking.csv
+2022-07-26 16:14:47,468  automation.py  INFO: Successfully created the file  customer_ranking.csv
+2022-07-26 16:14:47,468  automation.py  INFO: End File Process
